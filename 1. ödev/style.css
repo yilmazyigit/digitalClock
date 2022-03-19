@@ -1,0 +1,64 @@
+body {
+  background: black;
+  background-image: url(https://pbs.twimg.com/profile_images/1376199393955696642/tjTAqZNh_400x400.jpg);
+  height: 500px;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.clock {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 60px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+  margin: auto;
+  display: block;
+  border: solid #e98208 2px;
+  width: 60%;
+}
+
+.text-center {
+  background-color: black;
+  width: 50%;
+  opacity:0.7;
+  margin: auto;
+  display: block;
+  border-radius: 4px;
+}
+.text1 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 60px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+  display: block;
+  margin: auto;
+}
+
+ img {
+  width: 40%;
+  display: block;
+  margin: auto;
+}
+
+footer > span {
+  margin-top: 5px;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1em;
+  font-weight:bold;
+  color:  black;
+}
